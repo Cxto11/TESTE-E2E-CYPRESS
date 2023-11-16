@@ -1,32 +1,32 @@
 #RECURSOS A SEREM TESTADOS ( NO ESCOPO ) <br/>
-  *Inscreva-se 
-  *Login
-
-#Níveis de teste e tipos de teste
-  Níveis de teste
-    *Teste de Sistema
-    *Teste de Aceitação
-  Tipos de Teste
-    *Teste funcional
-    *Testando usabilidade
-    *Teste de regressão
-
-#Critério de Saída
-  *O teste foi concluído e não há bugs funcionais
-  *Todos os bugs restantes têm gravidade baixa
-  *Não mais que 10% dos bugs de gravidade média estão abertos
-
-#Critérios de Suspenção
-  *Bugs críticos estão abertos e estão bloqueando os testes.
-  *todos os casos de teste restantes são bloqueados por um bug aberto.
-
-#Entrega de Teste
- *Casos de teste
- *relatório de Bugs
- *relatório de resumo do testo
-
-#AMBIENTE DE TESTE
-  *sistema operacional: Windows 10
-  *Navegador: Google Chrome
-  *Rede: LAN
+  *Inscreva-se <br/>
+  *Login <br/>
+<br/>
+#Níveis de teste e tipos de teste<br/>
+  Níveis de teste<br/>
+    *Teste de Sistema<br/>
+    *Teste de Aceitação<br/>
+  Tipos de Teste<br/>
+    *Teste funcional<br/>
+    *Testando usabilidade<br/>
+    *Teste de regressão<br/>
+<br/>
+#Critério de Saída<br/>
+  *O teste foi concluído e não há bugs funcionais<br/>
+  *Todos os bugs restantes têm gravidade baixa<br/>
+  *Não mais que 10% dos bugs de gravidade média estão abertos<br/>
+<br/>
+#Critérios de Suspenção<br/>
+  *Bugs críticos estão abertos e estão bloqueando os testes.<br/>
+  *todos os casos de teste restantes são bloqueados por um bug aberto.<br/>
+<br/>
+#Entrega de Teste<br/>
+ *Casos de teste<br/>
+ *relatório de Bugs<br/>
+ *relatório de resumo do testo<br/>
+<br/>
+#AMBIENTE DE TESTE<br/>
+  *sistema operacional: Windows 10<br/>
+  *Navegador: Google Chrome<br/>
+  *Rede: LAN<br/>
   
