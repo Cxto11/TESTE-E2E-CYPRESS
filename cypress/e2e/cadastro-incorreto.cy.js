@@ -1,6 +1,6 @@
 describe('Pagina de Cadastro', () => {
+  beforeEach(() => {cy.visit('http://localhost:4200/#/home')})
     it('verificação de mensagem de erro! Cadastro Vazio', () => {
-      cy.visit('http://localhost:4200/#/home')
       cy.contains('a', 'Register now').click();
       cy.contains('button', 'Register').click();
       cy.contains('button', 'Register').click();
